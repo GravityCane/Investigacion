@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+h4{
+   font-size: 13px;
+   color:rgba(108, 37, 175, 0.815);
+
+
+}
+
+h1{
+    text-decoration: underline;
+    color: blueviolet;
+}

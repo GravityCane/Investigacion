@@ -1,0 +1,149 @@
+body{
+    background-image: url(../imagenes/fondo.jpg);
+    background-position: center;
+    background-color: black;
+    color:white;
+    font-family:Arial;
+    background-repeat: no-repeat;
+    background-color:rgba(250, 250, 210, 0.603);
+    margin: 0;
+    padding: 0;
+    background-size: 100% auto;
+    
+    
+    
+    
+}
+
+h1{ color:#2D6A4F;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: -140px;
+    margin-bottom: 130px;
+
+}
+
+h2{
+    color:#5a9d17;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    left: 20px;
+    font-size: 20px;
+
+}
+h4{  
+    font-size: 10px;
+    text-align: center;
+    color:rgb(36, 234, 10) 
+
+}
+.Imagen1 {
+  width: 200px;            
+  text-align: center;      
+  margin: 20px 0;         
+  margin-top: -350px;
+}
+
+.imagen-gob {
+    display: flex;
+    top: 15px;  
+    right: 200px;             
+    width: 120px;
+    
+    
+    
+}
+header {
+      background-color:rgba(209, 213, 114, 0.746);
+      text-align: center;
+      width: auto;
+      height: 30px;
+      
+}
+.pie-pagina {
+    text-align: center;
+    color: rgba(137, 43, 226, 0.518);
+    
+
+
+}
+.soluciones {
+    text-align: center;
+    font-size: 60px;
+    color:brown
+    
+
+}
+.text1 h4{
+  text-align: center;
+  font-size: 13px;
+
+ }
+.Saber-mas a{
+    text-align: center;
+    font-size: 20px;
+    color:blueviolet;
+    display: inline-block;
+    margin-bottom: 30px;
+    
+    
+}
+
+.mini-propuesta h4{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-size:13px;
+    display: inline-block;
+    margin-bottom: 30px;
+       
+
+
+}
+.mini h2{
+    text-align:center
+    
+ }
+.imagen-2{
+ text-align:center;
+    width: 45%;              
+    border-radius: 15px;       
+    border: 3px solid #ffffff; 
+    display: block;
+    margin: 30px auto;
+}
+
+.Efectos h4{
+
+    font-size: 14px;
+    text-align: center;
+    color:rgb(36, 234, 10);
+    display: inline-block;
+    margin-bottom: 60px;
+    
+}
+.Intro h4{
+font-size: 13px;
+
+}
+.Air img{
+    text-align: center;
+    width: 45%;              
+    border-radius: 15px;       
+    border: 3px solid #66bb5bb4; 
+    display: block;
+    margin: 30px auto;
+}
+    
+.menu ul{ 
+   
+  display: flex; 
+  justify-content: center;
+  gap: 15px; 
+  list-style: none; 
+  padding: 0;
+  margin: 10px 0;
+}
+
